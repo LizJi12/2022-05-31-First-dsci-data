@@ -3,4 +3,6 @@
 
 Let's Edit
 
-Now we have cloned our project down into our home foler!
+- Now we have cloned our project down into our home foler!
+
+- We have created our own token, this is a one time token, save it!
